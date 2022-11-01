@@ -4,7 +4,7 @@
   // Hack to get a better name when printing the file to PDF
   document.title = "{{resume.header.name}}{{if resume.header.suffix}}, {{resume.header.suffix}}{{endif}} - {{resume.header.current_title}} - Resume";
 
-  function JobDateDiff (start, end) {
+  function JobDateDiff (2005, 2015) {
       var daysDiff = (new Date(end).getTime() -  new Date(start).getTime()) / 86400000 //ms in a day;
 
       var years = Math.floor(daysDiff / 365.25);
