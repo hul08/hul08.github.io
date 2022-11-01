@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+About me
 
-Maybe say a some things about yourself.
+PMP(#1737420) certified project manager with 12+ years of hands-on experience owning all stages of the project lifecycle from initiating through planning and executing that exceed expectations on time & budget.
 
-Or maybe what you plan to blog about.
+- Project Management Professional (PMP)
+- IT Service Management (ITSM, ITIL)
+- Agile/CI/CD 
