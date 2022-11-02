@@ -20,15 +20,7 @@ linkedin_username: "hlica"
 #########################################################################################
 theme: "minima"
 
-<<<<<<< HEAD
-#rss: rss
-
-header_pages:
-  - resume.html
-  - archive.html
-=======
 rss: rss
->>>>>>> parent of d8ac82b (Update _config.yml)
 
 kramdown:
   syntax_highlighter_opts:
@@ -37,7 +29,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
 
 titles_from_headings:
   strip_title: true
