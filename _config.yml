@@ -32,7 +32,11 @@ plugins:
   
 google_analytics:
   - G-3L43ZQ3J69
-
+  
+strict_front_matter: true
+liquid:
+  error_mode: strict
+  
 titles_from_headings:
   strip_title: true
   collections: true
