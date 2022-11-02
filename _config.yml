@@ -22,6 +22,10 @@ theme: "minima"
 
 #rss: rss
 
+header_pages:
+  - resume.html
+  - archive.html
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
