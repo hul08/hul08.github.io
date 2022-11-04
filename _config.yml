@@ -31,3 +31,10 @@ google_analytics:
 titles_from_headings:
   strip_title: true
   collections: true
+  
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
