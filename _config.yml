@@ -27,3 +27,7 @@ plugins:
 google_analytics:
   - UA-248273708-1
   - G-R28FKGZVT5
+
+titles_from_headings:
+  strip_title: true
+  collections: true
