@@ -18,13 +18,9 @@ linkedin_username: "hlica"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: minima
 
 rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
     
 plugins:
   - jekyll-feed
@@ -44,5 +40,10 @@ defaults:
       path: ""
       type: posts
     values:
-      tags: Other
+      tags:
+        - Other # Add a default tag to all posts
       layout: "default"
+      
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
