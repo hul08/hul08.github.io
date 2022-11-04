@@ -34,9 +34,6 @@ google_analytics:
   - UA-248273708-1
   - G-R28FKGZVT5
   
-strict_front_matter: true
-liquid:
-  error_mode: strict
   
 titles_from_headings:
   strip_title: true
