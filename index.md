@@ -1,5 +1,5 @@
 
-👱🏼‍♂️About me
+👱🏼‍♂️***About me***
 
 An easygoing, tech enthusiast🖥️ and project manager who is living in Vancouver, BC, and enjoys outdoor activities, including hiking 🥾🥾, tennis🥎 and skiing⛷️. 
 <br>🌐PMP(#1737420) certified project manager with 12+ years of hands-on experience owning all stages of the project lifecycle from initiating through planning and executing that exceed expectations on time⏳ & budget💰. 
