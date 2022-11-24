@@ -5,4 +5,4 @@
  - PMP(#1737420) certified with 12+ years of hands-on experience owning all stages of the project lifecycle from initiating through planning and executing that exceed expectations on time & budget. <br>
  - Always looking for new challenges and new technologies to learn. Experienced with the software development life cycle (SDLC) utilizing various project management methodologies including Agile, Scrum and Kanban.<br>
  - The business side of this blog is mostly about project delivery stories, programming tips and tools.
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Q8P7bOkNG6u5qnd2Q2DxbnBbz9Of2D8nwf4Dw0hj4qc&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=259&t=n&d=Q8P7bOkNG6u5qnd2Q2DxbnBbz9Of2D8nwf4Dw0hj4qc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
